@@ -1,0 +1,38 @@
+{
+        {
+            JackpotID = 1,
+            JpIDConvertPrefabPosID = 1,
+            OpenSound = "fc6001_up1.mp3",
+            CloseSound = "fc6001_low1.mp3",
+            OpenColor = "#00FF00",
+            CloseColor = "#808080",
+            OpenPrefabData = { Name = "prefab_slot6001_jackpotAnim.prefab", AnimationName = "animation1", IsDeleteSelf = true }
+        },
+        {
+            JackpotID = 2,
+            JpIDConvertPrefabPosID = 2,
+            OpenSound = "fc6001_up2.mp3",
+            CloseSound = "fc6001_low2.mp3",
+            OpenColor = "#09D5FF",
+            CloseColor = "#808080",
+            OpenPrefabData = { Name = "prefab_slot6001_jackpotAnim.prefab", AnimationName = "animation1", IsDeleteSelf = true }
+        },
+        {
+            JackpotID = 3,
+            JpIDConvertPrefabPosID = 3,
+            OpenSound = "fc6001_up3.mp3",
+            CloseSound = "fc6001_low3.mp3",
+            OpenColor = "#FF0000",
+            CloseColor = "#808080",
+            OpenPrefabData = { Name = "prefab_slot6001_jackpotAnim.prefab", AnimationName = "animation1", IsDeleteSelf = true }
+        },
+        {
+            JackpotID = 5,
+            JpIDConvertPrefabPosID = 4,
+            OpenSound = "fc6001_up4.mp3",
+            CloseSound = "fc6001_low4.mp3",
+            OpenColor = "#EEFA00",
+            CloseColor = "#808080",
+            OpenPrefabData = { Name = "prefab_slot6001_jackpotAnim.prefab", AnimationName = "animation1", IsDeleteSelf = true }
+        }
+    }
